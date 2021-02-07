@@ -1,2 +1,5 @@
 # Project-Site
-Create an internet site web with my friends
+Je veux créer un site internet avec mes amis
+Pour cela nous utilisons Git et GitHub.
+
+J'espère que cela vous plaira !
